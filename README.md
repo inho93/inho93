@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=inho93&show_icons=true)
 
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=inho93)](https://solved.ac/inho93)
+[![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=inho93)](https://solved.ac/inho93)
