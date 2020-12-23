@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning `Java` `Scala`
+🌱 I’m currently learning `Java`
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=inho93&show_icons=true)
 
