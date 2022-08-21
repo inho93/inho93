@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=inho93&show_icons=true)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/qkrdlsgh93?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/inho93?theme=light)
 
 [![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=inho93)](https://solved.ac/inho93)
